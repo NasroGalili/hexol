@@ -1,4 +1,3 @@
 discord.py
 bash
 bundle
-web
