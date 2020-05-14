@@ -1,4 +1,4 @@
 discord.py
 bash
-bundler
+bundle
 web
